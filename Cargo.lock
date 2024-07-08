@@ -8335,7 +8335,7 @@ dependencies = [
 
 [[package]]
 name = "zgs_node"
-version = "0.3.0"
+version = "0.3.3"
 dependencies = [
  "anyhow",
  "chunk_pool",
